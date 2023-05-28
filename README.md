@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahlminkok/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahlminkok7@gmail.com)
 
-<img align="right" alt="img" src="./Sahalu%20Aminu.png" width="100%" height="auto" />
+<div align="center"><img align="center" alt="img" src="./Sahalu%20Aminu.png" width="70%" height="auto" /></div>
 &nbsp;
 
 Welcome to my Github page! I am Sahal and I am currently Studying at Microverse, a remote Software Development School. It offers a full-time, intensive program that is designed to prepare students for a career as a professional software developer!  
