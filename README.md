@@ -26,7 +26,7 @@ Welcome to my Github page! I am Sahal and I am currently Studying at Microverse,
 <p>
 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sahlminkok&show_icons=true&hide_border=true" />
 
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=radical&background=fff&hide_border=false" />&nbsp;
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=flag-india&background=fff&hide_border=false" />&nbsp;
 &nbsp;
 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahlminkok&theme=radical&layout=compact" />
