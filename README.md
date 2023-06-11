@@ -15,7 +15,7 @@ Welcome to my Github page! I am Sahal and I am currently Studying at Microverse,
 #### 🌱 Things I am currently working on: 
 - Studying at Microverse  
 - Learning Graphic Design 
-- Developing a ToDo List App using HTML, CSS, JavaScript with webpack configuration.
+- Learning React.
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
