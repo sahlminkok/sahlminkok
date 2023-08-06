@@ -24,10 +24,10 @@ Welcome to my Github page! I am Sahal and I am currently Studying at Microverse,
 - Increasing my networking on LinkedIn and Twitter
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sahlminkok&show_icons=true&hide_border=false&theme=blue" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sahlminkok&show_icons=true&hide_border=false&theme=blue" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahlminkok&theme=blue&layout=compact" />
 </p>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=radical&background=fff&hide_border=false" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=radical&background=fff&hide_border=false" />
 </div>
