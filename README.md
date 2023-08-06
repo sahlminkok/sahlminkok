@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## This is Sahalu Aminu!
+## I'm is Sahalu Aminu!
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-darkblue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sahlminkok)
@@ -15,19 +15,19 @@ Welcome to my Github page! I am Sahal and I am currently Studying at Microverse,
 #### 🌱 Things I am currently working on: 
 - Studying at Microverse  
 - Learning Graphic Design 
-- Developing a ToDo List App using HTML, CSS, JavaScript with webpack configuration.
+- Learning Ruby and Database
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 8 hours a day
-- Exercising 3 days a week
+- Exercising 7 days a week
 - Increasing my networking on LinkedIn and Twitter
 
-<p>
-	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sahlminkok&show_icons=true&hide_border=true" />
-
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=radical&background=fff&hide_border=false" />&nbsp;
-&nbsp;
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahlminkok&theme=radical&layout=compact" />
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sahlminkok&show_icons=true&hide_border=false&theme=blue" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahlminkok&theme=blue&layout=compact" />
 </p>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=radical&background=fff&hide_border=false" />
+</div>
