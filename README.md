@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## I'm is Sahalu Aminu!
+## I'm Sahalu Aminu!
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-darkblue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sahlminkok)
