@@ -9,7 +9,7 @@
 <div align="center"><img align="center" alt="img" src="./Sahalu%20Aminu.png" width="70%" height="auto" /></div>
 &nbsp;
 
-Welcome to my Github page! I am Sahal and I am currently Studying at Microverse, a remote Software Development School. It offers a full-time, intensive program that is designed to prepare students for a career as a professional software developer!  
+Welcome to my GitHub page! I am Sahal and I am currently Studying at Microverse, a remote Software Development School. It offers a full-time, intensive program that is designed to prepare students for a career as professional software developer!  
 
 
 #### 🌱 Things I am currently working on: 
@@ -29,5 +29,5 @@ Welcome to my Github page! I am Sahal and I am currently Studying at Microverse,
 </p>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=radical&background=fff&hide_border=false" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=blue-white&hide_border=false" />
 </div>
