@@ -14,8 +14,8 @@ Welcome to my GitHub page! I am Sahal and I am currently Studying at Microverse,
 
 #### 🌱 Things I am currently working on: 
 - Studying at Microverse  
-- Learning Graphic Design 
-- Learning Ruby and Database
+- Learning React
+- Learning Ruby on Rails
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
