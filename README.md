@@ -1,16 +1,14 @@
 ### Hi there 👋 
 ## I'm Sahalu Aminu!
 
-
 [![Twitter](https://img.shields.io/badge/-Twitter-darkblue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sahlminkok)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahlminkok/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahlminkok7@gmail.com)
 
-<div align="center"><img align="center" alt="img" src="./Sahalu%20Aminu.png" width="70%" height="auto" /></div>
-&nbsp;
-
-Welcome to my GitHub page! I am Sahal and I am currently Studying at Microverse, a remote Software Development School. It offers a full-time, intensive program that is designed to prepare students for a career as professional **Software Developer!**  
-
+<div align="center">
+  <img align="left" alt="img" src="./Sahalu%20Aminu.png" width="30%" height="auto" />
+  Welcome to my GitHub page! 😊 I'm Sahal, a passionate software developer currently enrolled in Microverse, a leading remote Software Development School. My journey into the world of coding is fueled by curiosity and a relentless pursuit of knowledge. 💡 I believe in the transformative power of technology and am dedicated to creating innovative solutions. Here, you'll find a collection of my projects that reflect my commitment to honing my skills. 🚀 I welcome collaboration and feedback, so feel free to connect and explore the exciting world of software development with me. Thanks for visiting! 👋  
+</div>
 
 #### 🌱 Things I am currently working on: 
 - Studying at Microverse  
