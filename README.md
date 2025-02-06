@@ -1,31 +1,22 @@
-### Hi there 👋 
-## I'm Sahalu Aminu!
+# Hi 👋 I'm Sahal
 
 [![Twitter](https://img.shields.io/badge/-Twitter-darkblue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sahlminkok)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahlminkok/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahlminkok7@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahalu.aminuk@gmail.com)
 
-<div align="center">
-  <img align="right" alt="img" src="./Sahalu%20Aminu.png" width="50%" height="auto" />
-  Welcome to my GitHub page! 😊 I'm Sahal, a passionate software developer currently enrolled in Microverse, a leading remote Software Development School. My journey into the world of coding is fueled by curiosity and a relentless pursuit of knowledge. 💡 I believe in the transformative power of technology and am dedicated to creating innovative solutions. Here, you'll find a collection of my projects that reflect my commitment to honing my skills. 🚀 I welcome collaboration and feedback, so feel free to connect and explore the exciting world of software development with me. Thanks for visiting! 👋  
-</div>
+## About Me 🌟
 
-#### 🌱 Things I am currently working on: 
-- Studying at Microverse  
-- Learning React
-- Learning Ruby on Rails
+  - 🔭 Full-Stack Developer specializing in JavaScript, React, Ruby on Rails, and building scalable web apps.
+  - 🌱 Currently learning and exploring how technology can impact the agriculture sector.
+  - ♟️ Chess enthusiast—always up for a good strategy game.
+  - 💪 I start my mornings with a workout to stay energized and focused.
+  - 🚀 Passionate about solving real-world problems through tech and collaborating with like-minded people.
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 8 hours a day
-- Exercising 7 days a week
-- Increasing my networking on LinkedIn and Twitter
+<br/>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sahlminkok&show_icons=true&hide_border=false&theme=blue" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahlminkok&theme=blue&layout=compact" />
-</p>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahlminkok&theme=blue-white&hide_border=false" />
-</div>
+<a href="https://github.com/sahlminkok/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahlminkok&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sahalu's github stats" />
+</a>
+<a href="https://github.com/sahlminkok/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahlminkok&layout=compact&theme=buefy&hide_border=true" />
+</a>
